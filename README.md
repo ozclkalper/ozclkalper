@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Alper!
 
-<!--
-**ozclkalper/ozclkalper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** passionate about software development and electronics. I enjoy working on projects using **Java**, **Python**, and **Arduino**.
 
-Here are some ideas to get you started:
+## 🚀 Areas of Interest
+- 💻 Java & Python programming
+- 🤖 Embedded systems with Arduino
+- 🔍 Algorithms and data structures
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Use
+- Java, Python  
+- Arduino IDE  
+- Git & GitHub  
+- Visual Studio Code  
+
+## 🌱 Currently Learning
+- Object-Oriented Programming with Java  
+- Sensor-based projects with Arduino  
+
+## 📈 GitHub Stats
+![Alper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozclkalper&show_icons=true&theme=tokyonight)
+
+## 📫 Contact Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/alper-ali-%C3%B6z%C3%A7elik-5a2a00334/)
+- 📧 ozcelikalper0321@gmail.com
+
+---
+
+> This profile is a work in progress. I’ll be updating it with new projects and experiences as I grow.
